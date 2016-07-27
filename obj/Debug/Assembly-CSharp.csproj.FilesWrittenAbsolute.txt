@@ -1,0 +1,17 @@
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/obj/Debug/Assembly-CSharp.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/UnityEngine.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/UnityEditor.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/brettmoody/Desktop/IntroToGameDev/ZombieSurvivalGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll

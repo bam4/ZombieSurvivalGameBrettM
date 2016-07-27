@@ -1,0 +1,12 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="BulletMoving" preserve="all"/>
+<type fullname="DeathTriggerWall" preserve="all"/>
+<type fullname="DeathTriggerZombie" preserve="all"/>
+<type fullname="Killable" preserve="all"/>
+<type fullname="PlayerController" preserve="all"/>
+<type fullname="RestartButton" preserve="all"/>
+<type fullname="ZombieMoveScript" preserve="all"/>
+<type fullname="ZombieSpawner" preserve="all"/>
+</assembly>
+</linker>
